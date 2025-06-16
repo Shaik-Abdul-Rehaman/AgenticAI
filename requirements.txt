@@ -8,3 +8,8 @@ langchain-groq
 langchain-core
 wikipedia
 youtube_search
+langchain_google_genai
+langchain_huggingface
+sentence-transformers
+pypdf
+chromadb
